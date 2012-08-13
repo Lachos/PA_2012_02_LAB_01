@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=nombre\ duracionEsperada\ porcentajeAvance\ duracionReal\ responsable
+comment0.target=Tarea(java.lang.String,\ int,\ int,\ int,\ java.lang.String)
+comment1.params=nombre
+comment1.target=void\ setNombre(java.lang.String)
+comment10.params=
+comment10.target=java.lang.String\ getResponsable()
+comment2.params=
+comment2.target=java.lang.String\ getNombre()
+comment3.params=duracionEsperada
+comment3.target=void\ setDuracionEsperada(int)
+comment4.params=
+comment4.target=int\ getDuracionEsperada()
+comment5.params=porcentajeAvance
+comment5.target=void\ setPorcentajeAvance(int)
+comment6.params=
+comment6.target=int\ getPorcentajeAvance()
+comment7.params=duracionReal
+comment7.target=void\ setDuracionReal(int)
+comment8.params=
+comment8.target=int\ getDuracionReal()
+comment9.params=responsable
+comment9.target=void\ setResponsable(java.lang.String)
+numComments=11
